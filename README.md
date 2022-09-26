@@ -4,4 +4,4 @@
 
 ## Made date
 
-22. 9. 24 : right-arrow and x-box
+2022/9/24 : right-arrow and x-box added
