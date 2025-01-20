@@ -1,7 +1,5 @@
-개인적으로 작업한 svg icon들을 모아두는 TEMPLATE입니다.
+This repository contains personally-made svg icons made by PajaritoMoyqi.
 
-- Made by PajaritoMoyqi
+## When it's made
 
-## Made date
-
-2022/9/24 : right-arrow and x-box added
+2022/9/24 : right-arrow and x-box added<br />
